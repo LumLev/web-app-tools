@@ -2,4 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/web-app-tools.slnx/FileContentIndex/ccec3bef-4929-46f5-b616-3889c1acd1b1.vsidx
+/.vs
+/.vs/**
